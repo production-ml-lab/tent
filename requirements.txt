@@ -1,6 +1,6 @@
-numpy>=1.19.5
-torch==1.8.1
-torchvision==0.9.1
-yacs==0.1.8
-iopath==0.1.8
-git+https://github.com/robustbench/robustbench@v0.1#egg=robustbench
+numpy==1.26.4
+torch==2.5.1
+torchvision==0.20.1
+yacs
+iopath
+git+https://github.com/RobustBench/robustbench.git
